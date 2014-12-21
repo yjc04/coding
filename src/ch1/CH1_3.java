@@ -1,4 +1,4 @@
-package interview;
+package ch1;
 
 import java.util.HashMap;
 import java.util.Map;

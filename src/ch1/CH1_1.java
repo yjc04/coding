@@ -1,4 +1,4 @@
-package interview;
+package ch1;
 
 public class CH1_1 {
 	
